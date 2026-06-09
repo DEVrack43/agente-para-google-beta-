@@ -1,0 +1,6 @@
+{
+  "name": "Google Workspace Organizer",
+  "description": "Una aplicación centralizada para escanear, categorizar, organizar y depurar archivos duplicados de Google Drive y correos promocionales en lote de Gmail con asistencia de Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
